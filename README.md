@@ -1,1 +1,1 @@
-# Server_Client_Applikation.c
+# Server_Client_Applikation in C
